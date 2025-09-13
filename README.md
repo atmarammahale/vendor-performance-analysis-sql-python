@@ -155,5 +155,5 @@ python scripts/get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Atmaram Mahale**  
-Data Analyst  
+Data Science Student (UG)  
 📧 Email: omkarmahale7824@gmail.com 
